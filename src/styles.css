@@ -65,7 +65,7 @@ body {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    background-image: url("./Images/backgroundUp.png");
+    background-image: url("../Images/backgroundUp.png");
   }
   
   .hero-info {
@@ -235,7 +235,7 @@ body {
 background-color: blue;
   }
   .second {
-    background-image: url("./Images/secondBackground.jpg");
+    background-image: url("../Images/secondBackground.jpg");
    background-size: cover;
    background-repeat: no-repeat;
    height: 870px;
