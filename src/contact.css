@@ -8,7 +8,7 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     padding: 40px 0 0 0;
-    background-image: url("../background.png");
+    background-image: url("./Images/background.png");
   }
     
     .input-group {
